@@ -24,6 +24,7 @@
 <p align="left">
 <a href="https://twitter.com/rakesh37655298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rakesh37655298" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rakesh799" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakesh799" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rakesh.choudhury.568089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakesh799" height="30" width="40" /></a>
 <a href="https://instagram.com/gymboy_rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gymboy_rakesh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/gymboy rakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="gymboy rakesh" height="30" width="40" /></a>
 </p>
