@@ -1,3 +1,5 @@
+![logo](https://github.com/Rakesh799/Rakesh799/blob/main/Screenshot%202024-11-16%20113856.png)
+
 <h1 align="center">Hi 👋, I'm Rakesh Choudhury</h1>
 <h3 align="center">Frontend Web Developer | 🎨 Passionate about crafting responsive and dynamic UIs using React 💻 Skilled in HTML, CSS, JavaScript, Tailwind CSS, and MySQL</h3>
 
