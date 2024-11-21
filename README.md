@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rakesh799/](https://www.linkedin.com/in/rakesh799/)
 
-- ⚡ Fun fact **I am funny😁🤣**
+- ⚡ Fun fact **Web developer by day, bug squasher by night! I turn coffee into code and code into websites.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
