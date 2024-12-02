@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rakesh37655298" target="blank"><img src="https://img.shields.io/twitter/follow/rakesh37655298?logo=twitter&style=for-the-badge" alt="rakesh37655298" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rakesh799](https://github.com/Rakesh799)
 
